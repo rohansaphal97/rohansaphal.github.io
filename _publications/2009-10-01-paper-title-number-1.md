@@ -1,15 +1,28 @@
 ---
-title: "Paper Title Number 1"
+title: "SEERL: Sample  Efficient Ensemble Reinforcement Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'Ensemble learning is a very prevalent method employed in machine learning. The
+relative success of ensemble methods is attributed to its ability to tackle a wide range
+of instances and complex problems that require different low-level approaches.
+However, ensemble methods are relatively less popular in reinforcement learning
+owing to the high sample complexity and computational expense involved. We
+present a new training and evaluation framework for model-free algorithms that use
+ensembles of policies obtained from a single training instance. These policies are
+diverse in nature and are learned through directed perturbation of the model parameters at regular intervals. We show that learning an adequately diverse set of policies
+is required for a good ensemble while extreme diversity can prove detrimental to
+overall performance. We evaluate our approach to challenging discrete and continuous control tasks and also discuss various ensembling strategies. Our framework
+is substantially sample efficient, computationally inexpensive and is seen to outperform state of the art(SOTA) scores in Atari 2600 and Mujoco. Video results can be
+found at https://www.youtube.com/channel/UC95Kctu9Mp8BlFmtGD2TGTA'
+date: 2019-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://academicpages.github.io/files/SEERL_arxiv.pdf'
+citation: 'Rohan Saphal, Balaraman Ravindran, Dheevatsa Mudigere, Sasikant Avancha, and Bharat Kaul. "SEERL:
+Sample Efficient Ensemble Reinforcement Learning." To appear in the Proceedings of the Thirty-Fourth
+AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/SEERL_arxiv.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Rohan Saphal, Balaraman Ravindran, Dheevatsa Mudigere, Sasikant Avancha, and Bharat Kaul. "SEERL:Sample Efficient Ensemble Reinforcement Learning." To appear in the Proceedings of the Thirty-Fourth
+AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press
