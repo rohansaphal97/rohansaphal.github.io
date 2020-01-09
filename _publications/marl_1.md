@@ -1,7 +1,7 @@
 ---
-title: "Performance analysis of vertically offset
+title: "[Performance analysis of vertically offset
 overlapped propulsion system based
-quadrotor in an aerial mapping mission"
+quadrotor in an aerial mapping mission](http://rohansaphal97.github.io/files/VOOPS.pdf)"
 collection: publications
 permalink: /publication/marl
 excerpt: 'In this paper, the authors present the performance analysis of a Vertically Offset Overlapped Propulsion System (VOOPS)-based quadrotor in an aerial mapping mission. The dynamic model of the VOOPS quadrotor with the
