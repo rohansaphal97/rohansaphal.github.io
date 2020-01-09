@@ -1,42 +1,28 @@
 ---
-title: "SEERL: Sample Efficient Ensemble Reinforcement Learning"
+title: "Performance analysis of vertically offset
+overlapped propulsion system based
+quadrotor in an aerial mapping mission"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Ensemble learning is a very prevalent method employed in machine learning. The
-relative success of ensemble methods is attributed to its ability to tackle a wide range
-of instances and complex problems that require different low-level approaches.
-However, ensemble methods are relatively less popular in reinforcement learning
-owing to the high sample complexity and computational expense involved. We
-present a new training and evaluation framework for model-free algorithms that use
-ensembles of policies obtained from a single training instance. These policies are
-diverse in nature and are learned through directed perturbation of the model parameters at regular intervals. We show that learning an adequately diverse set of policies
-is required for a good ensemble while extreme diversity can prove detrimental to
-overall performance. We evaluate our approach to challenging discrete and continuous control tasks and also discuss various ensembling strategies. Our framework
-is substantially sample efficient, computationally inexpensive and is seen to outperform state of the art(SOTA) scores in Atari 2600 and Mujoco. Video results can be
-found [here](https://www.youtube.com/channel/UC95Kctu9Mp8BlFmtGD2TGTA)'
-date: 2020-10-01
-venue: 'the Proceedings of the Thirty-Fourth
-AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press'
-paperurl: 'http://rohansaphal97.github.io/files/SEERL_arxiv.pdf'
-citation: 'Rohan Saphal, Balaraman Ravindran, Dheevatsa Mudigere, Sasikant Avancha, and Bharat Kaul. "SEERL:
-Sample Efficient Ensemble Reinforcement Learning." To appear in the Proceedings of the Thirty-Fourth
-AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press'
+permalink: /publication/marl
+excerpt: 'In this paper, the authors present the performance analysis of a Vertically Offset Overlapped Propulsion System (VOOPS)-based quadrotor in an aerial mapping mission. The dynamic model of the VOOPS quadrotor with the
+effect of overlapping propellers and the profile drag has been derived and simulated. A path-tracking mission is taken as an example for aerial survey. The controller used for this task is presented, followed by the response study of the attitude and the position controller with standard test inputs. A graphical interface has been built to select the area to be mapped by defining a polygon around it, and waypoints for lawn-mower type survey grid were generated based on the direction of wind. The path-tracking algorithm is presented along with course correction and simulations were performed with both conventional and VOOPS quadrotor. An experimental vehicle based on the proposed VOOPS
+concept has been built, tested on the same path, and the results are discussed. The results show that the VOOPS
+quadrotor is capable of performing the aerial mapping mission with quick response and good accuracy.'
+date: 2018-10-01
+venue: 'the International Journal of Micro Air
+Vehicles'
+paperurl: 'http://rohansaphal97.github.io/files/VOOPS.pdf'
+citation: 'Nandakumar, Ganeshram, Rohan Saphal, Ashish Joishy, and Asokan Thondiyath. \Performance Analysis of
+Vertically Offset Overlapped Propulsion System Based Quadrotor in an Aerial Mapping Mission."
+International Journal of Micro Air Vehicles 10, no. 4 (December 2018): 370-85.'
 ---
-Ensemble learning is a very prevalent method employed in machine learning. The
-relative success of ensemble methods is attributed to its ability to tackle a wide range
-of instances and complex problems that require different low-level approaches.
-However, ensemble methods are relatively less popular in reinforcement learning
-owing to the high sample complexity and computational expense involved. We
-present a new training and evaluation framework for model-free algorithms that use
-ensembles of policies obtained from a single training instance. These policies are
-diverse in nature and are learned through directed perturbation of the model parameters at regular intervals. We show that learning an adequately diverse set of policies
-is required for a good ensemble while extreme diversity can prove detrimental to
-overall performance. We evaluate our approach to challenging discrete and continuous control tasks and also discuss various ensembling strategies. Our framework
-is substantially sample efficient, computationally inexpensive and is seen to outperform state of the art(SOTA) scores in Atari 2600 and Mujoco. Video results can be
-found [here](https://www.youtube.com/channel/UC95Kctu9Mp8BlFmtGD2TGTA)
+In this paper, the authors present the performance analysis of a Vertically Offset Overlapped Propulsion System (VOOPS)-based quadrotor in an aerial mapping mission. The dynamic model of the VOOPS quadrotor with the
+effect of overlapping propellers and the profile drag has been derived and simulated. A path-tracking mission is taken as an example for aerial survey. The controller used for this task is presented, followed by the response study of the attitude and the position controller with standard test inputs. A graphical interface has been built to select the area to be mapped by defining a polygon around it, and waypoints for lawn-mower type survey grid were generated based on the direction of wind. The path-tracking algorithm is presented along with course correction and simulations were performed with both conventional and VOOPS quadrotor. An experimental vehicle based on the proposed VOOPS
+concept has been built, tested on the same path, and the results are discussed. The results show that the VOOPS
+quadrotor is capable of performing the aerial mapping mission with quick response and good accuracy.
 
-[Download paper here](http://rohansaphal97.github.io/files/SEERL_arxiv.pdf)
+[Download paper here](http://rohansaphal97.github.io/files/VOOPS.pdf)
 
-Recommended citation: 'Rohan Saphal, Balaraman Ravindran, Dheevatsa Mudigere, Sasikant Avancha, and Bharat Kaul. "SEERL:
-Sample Efficient Ensemble Reinforcement Learning." To appear in the Proceedings of the Thirty-Fourth
-AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press'
+Recommended citation: 'Nandakumar, Ganeshram, Rohan Saphal, Ashish Joishy, and Asokan Thondiyath. \Performance Analysis of
+Vertically Offset Overlapped Propulsion System Based Quadrotor in an Aerial Mapping Mission."
+International Journal of Micro Air Vehicles 10, no. 4 (December 2018): 370-85.'
