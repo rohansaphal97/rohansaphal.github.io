@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rohan Saphal"
-  avatar           : "webpage-min.png"
+  avatar           : "site-logo.png"
   bio              : "AI enthusiast. Focusing on Reinforcement learning and Deep learning for Autonomous Driving, Algorithmic trading and General Artificial Intelligence"
   location         : "Oxford, United Kingdom"
   employer         :
