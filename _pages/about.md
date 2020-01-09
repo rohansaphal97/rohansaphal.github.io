@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am currently pursuing my Master's in Computer Science at Oxford University.
-I completed my undergraduate studies at IIT Madras and was fortunate enough to be guided by Dr Balaraman Ravindran.
+\\
+I completed my undergraduate studies at IIT Madras under the guidance of Dr Balaraman Ravindran.
 
 
