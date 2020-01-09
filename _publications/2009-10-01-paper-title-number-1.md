@@ -13,16 +13,13 @@ diverse in nature and are learned through directed perturbation of the model par
 is required for a good ensemble while extreme diversity can prove detrimental to
 overall performance. We evaluate our approach to challenging discrete and continuous control tasks and also discuss various ensembling strategies. Our framework
 is substantially sample efficient, computationally inexpensive and is seen to outperform state of the art(SOTA) scores in Atari 2600 and Mujoco. Video results can be
-found at https://www.youtube.com/channel/UC95Kctu9Mp8BlFmtGD2TGTA'
-date: 2019-10-01
-venue: 'Journal 1'
+found [here](https://www.youtube.com/channel/UC95Kctu9Mp8BlFmtGD2TGTA')
+
 paperurl: 'http://academicpages.github.io/files/SEERL_arxiv.pdf'
 citation: 'Rohan Saphal, Balaraman Ravindran, Dheevatsa Mudigere, Sasikant Avancha, and Bharat Kaul. "SEERL:
 Sample Efficient Ensemble Reinforcement Learning." To appear in the Proceedings of the Thirty-Fourth
-AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press'
+[AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press](http://academicpages.github.io/files/SEERL_arxiv.pdf)'
 ---
-
-[Download paper here](http://academicpages.github.io/files/SEERL_arxiv.pdf)
 
 Recommended citation: Rohan Saphal, Balaraman Ravindran, Dheevatsa Mudigere, Sasikant Avancha, and Bharat Kaul. "SEERL:Sample Efficient Ensemble Reinforcement Learning." To appear in the Proceedings of the Thirty-Fourth
 AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press
