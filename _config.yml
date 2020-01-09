@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rohan Saphal"
-  avatar           : "profile.png"
+  avatar           : "11423_332394930292489_8824873393388274409_n.png"
   bio              : "AI enthusiast. Focusing on Reinforcement learning and Deep learning for Autonomous Driving, Algorithmic trading and General Artificial Intelligence"
   location         : "Oxford, United Kingdom"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/rohansaphal97"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/RohanSaphal"
   vine             :
   weibo            :
   xing             :
