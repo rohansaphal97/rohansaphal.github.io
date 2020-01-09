@@ -17,8 +17,8 @@ found [here](https://www.youtube.com/channel/UC95Kctu9Mp8BlFmtGD2TGTA)'
 date: 2019-10-01
 venue: 'To appear in the Proceedings of the Thirty-Fourth
 AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press'
-paperurl: 
+paperurl:'http://rohansaphal97.github.io/files/SEERL_arxiv.pdf'
 citation: 'Rohan Saphal, Balaraman Ravindran, Dheevatsa Mudigere, Sasikant Avancha, and Bharat Kaul. "SEERL:
-Sample Efficient Ensemble Reinforcement Learning." [To appear in the Proceedings of the Thirty-Fourth
-AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press]('http://rohansaphal97.github.io/files/SEERL_arxiv.pdf)'
+Sample Efficient Ensemble Reinforcement Learning." To appear in the Proceedings of the Thirty-Fourth
+AAAI Conference on Artificial Intelligence (AAAI-20). AAAI Press'
 ---
