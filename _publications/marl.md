@@ -23,4 +23,6 @@ quadrotor is capable of performing the aerial mapping mission with quick respons
 
 [Download paper here](http://rohansaphal97.github.io/files/VOOPS.pdf)
 
-Recommended citation: ''
+Recommended citation: 'Nandakumar, Ganeshram, Rohan Saphal, Ashish Joishy, and Asokan Thondiyath. \Performance Analysis of
+Vertically Offset Overlapped Propulsion System Based Quadrotor in an Aerial Mapping Mission."
+International Journal of Micro Air Vehicles 10, no. 4 (December 2018): 370-85.'
